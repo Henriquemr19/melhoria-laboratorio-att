@@ -97,7 +97,7 @@ Roteiro demonstrado no vídeo gravado no editor:
 4. Parada e reinício da cena no Unity, seguido de carregamento imediato via tecla **L** sem novo treino.
 5. Execução bem-sucedida nos cenários de validação.
 
-- **Link do Vídeo**: *[Inserir link do Teams ou vídeo compartilhado aqui]*
+Enviei o video no teams na propria atividade pois estava muito pesado por algum motivo
 
 ---
 
